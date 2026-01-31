@@ -2,7 +2,7 @@
 
 **App:** FakeStore (E-commerce demo)  
 **Type:** Web App  
-**Focus Areas:** Login, product browsing, search/filter, cart, UI validation  
+**Focus Areas:** Login, product browsing, search/filter, UI validation  
 **Environment:** Chrome (latest), Windows 10/11
 
 ## Test Suite: Authentication
