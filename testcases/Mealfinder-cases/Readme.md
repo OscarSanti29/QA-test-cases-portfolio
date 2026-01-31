@@ -1,9 +1,9 @@
-#Mealfinder - Manual Test Cases
+# Mealfinder - Manual Test Cases
 Thi folder contains manual test cases created to validate the functionality, usability, and UI behavior of the FakeStore web application.
 
 The purpose of these test cases is to demonstrate structured QA thinking, clear documentation, and coverage of core e-commerce user flows.
 
-##Application Overview
+## Application Overview
 **Application Type: Web Application (E-commerce)
 **Tech Stack: React, TypeScript, REST API
 **Environment Tested:
@@ -11,7 +11,7 @@ The purpose of these test cases is to demonstrate structured QA thinking, clear 
 -Browser: Chrome (latest)
 
 
-##Scope of Testing
+## Scope of Testing
 The following functional areas are covered:
 
 -User Authentication (basic login scenarios)
@@ -21,7 +21,7 @@ The following functional areas are covered:
 -Responsive Layout (Mobile View)
 
 
-##Types of Testing Performed
+## Types of Testing Performed
 -Smoke Testing
 -Manual Functional Testing
 -Exploratory Testing
@@ -29,7 +29,7 @@ The following functional areas are covered:
 -UI Validation
 
 
-##Test Case Structure
+## Test Case Structure
 Each test case includes:
 -Test Case ID
 -Title / Description
@@ -38,7 +38,7 @@ Each test case includes:
 -Expected Results
 
 
-##Known Issues
+## Known Issues
 At least one defect was identified during testing and documented separately in the bug-reports folder:
 -Due to responsive layout problems, there is an issue regarding the flip animation of the products
 
