@@ -5,9 +5,9 @@
 **Focus Areas:** Login, product browsing, search/filter, UI validation  
 **Environment:** Chrome (latest), Windows 10/11
 
-## Test Suite: Authentication
-
-### TC-AUTH-001: Login with valid credentials
+### TC-001: Login with valid credentials
+**Priority:** High
+**Type:** Functional
 **Preconditions:** User account exists  
 **Steps:**
 1. Navigate to Login page
@@ -20,7 +20,10 @@
 - User is redirected to the main/home page
 - No error message displayed
 
-### TC-AUTH-002: Login with invalid password
+### TC-002: Login with invalid password
+**Priority:** High
+**Type:** Functional
+**Preconditions:** App is loaded, user is on home/search page
 **Steps:**
 1. Navigate to Login page
 2. Enter valid username
@@ -32,9 +35,10 @@
 - Error message is displayed
 - User remains on login page
 
-## Test Suite: Product Search & Filter
-
-### TC-PROD-001: Search by product name (exact match)
+### TC-003: Search by product name (exact match)
+**Priority:** Medium
+**Type:** Functional/UI
+**Preconditions:** App is loaded, user is on home/search page
 **Steps:**
 1. Navigate to Products page
 2. Enter a valid product name in search bar
@@ -44,7 +48,10 @@
 - Relevant product(s) displayed
 - No unrelated products shown
 
-### TC-PROD-002: Search with no results
+### TC-004: Search with no results
+**Priority:** Medium
+**Type:** Functional/UI
+**Preconditions:** App is loaded, user is on home/search page
 **Steps:**
 1. Navigate to Products page
 2. Search for a random string (e.g., "zzzz123")
@@ -53,7 +60,10 @@
 - "No results" state is shown (or empty state)
 - App does not crash
 
-### TC-PROD-003: Filter by category
+### TC-005: Filter by category
+**Priority:** Medium
+**Type:** Functional/UI
+**Preconditions:** App is loaded, user is on home/search page
 **Steps:**
 1. Navigate to Products page
 2. Select a category filter
@@ -62,9 +72,11 @@
 - Only products from selected category appear
 - Filter label updates correctly (if applicable)
 
-## UI / UX Checks
 
-### TC-UI-001: Responsive layout (mobile width)
+### TC-006: Responsive layout (mobile width)
+**Priority:** High
+**Type:** UI
+**Preconditions:** App is loaded, user is on home/search page
 **Steps:**
 1. Resize browser to ~390px width (mobile)
 2. Navigate through main pages
