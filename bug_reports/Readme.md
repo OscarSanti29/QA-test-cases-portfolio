@@ -15,12 +15,14 @@ Each bug report follows a standard structure:
 ## FakeStore
 
 | Bug ID | Title | Severity |
+
 | BUG-001 | Product card does not flip at mobile width | Medium | 
 
 
 ## MealFinder
 
 | Bug ID | Title | Severity |
+
 | BUG-001 | Empty search does not show validation message | Low |
 
 
