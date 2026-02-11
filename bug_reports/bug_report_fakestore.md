@@ -2,7 +2,7 @@
 
 **Environment:** Windows 11, Chrome (latest)  
 **Severity:** Medium  
-**Priority:** P2  
+**Priority:** Medium 
 **Component:** Responive layout  
 **Description:**  
 When Resizing browser to mobile width (390px), products on main page do not flip when clicked on and details button cant be clicked to navigate to details page
