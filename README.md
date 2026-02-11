@@ -5,7 +5,6 @@ This repository contains sample manual QA test cases, bug reports, and test summ
 ## Contents
 - **test-cases/**: Manual test cases written for web apps (Markdown + CSV)
 - **bug-reports/**: Bug report template + example bug report
-- **test-summary/**: Example test summary report
 
 ## Projects Tested
 - FakeStore (React + TypeScript + API)
