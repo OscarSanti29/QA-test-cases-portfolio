@@ -1,5 +1,5 @@
 # Mealfinder - Manual Test Cases
-Thi folder contains manual test cases created to validate the functionality, usability, and UI behavior of the FakeStore web application.
+Thi folder contains manual test cases created to validate the functionality, usability, and UI behavior of the MealFinder web application.
 
 The purpose of these test cases is to demonstrate structured QA thinking, clear documentation, and coverage of core e-commerce user flows.
 
