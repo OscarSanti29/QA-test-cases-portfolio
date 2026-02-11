@@ -37,11 +37,6 @@ Each test case includes:
 - Expected Results
 
 
-## Known Issues
-At least one defect was identified during testing and documented separately in the bug-reports folder:
-- Due to responsive layout problems, there is an issue regarding the flip animation of the products
-
-
 ## Notes
 - These test cases were created as part of a QA portfolio project.
 - The application under test is a demo project and may not reflect production-level stability.
