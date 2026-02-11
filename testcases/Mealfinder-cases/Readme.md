@@ -5,7 +5,7 @@ The purpose of these test cases is to demonstrate structured QA thinking, clear 
 
 ## Application Overview
 **Application Type:** Web Application (E-commerce)
-**Tech Stack:** React, TypeScript, REST API
+**Tech Stack:** React, Javascript, REST API
 **Environment Tested:**
 - OS: Windows 11
 - Browser: Chrome (latest)
@@ -14,11 +14,10 @@ The purpose of these test cases is to demonstrate structured QA thinking, clear 
 ## Scope of Testing
 The following functional areas are covered:
 
-- User Authentication (basic login scenarios)
+- Saved Local Storage
 - Product Browsing & Search
 - Product Filtering by Category
 - UI / UX Validation
-- Responsive Layout (Mobile View)
 
 
 ## Types of Testing Performed
